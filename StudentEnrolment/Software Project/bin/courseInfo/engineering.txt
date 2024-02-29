@@ -1,0 +1,23 @@
+This branch of engineering deals with the research,
+design, test , manufacture and maintenance of modern
+electronics systems, which typically consist 
+of electronics under the control of software.
+
+As the technology sector in Ireland continues to grow,
+there is a demand for graduates who have a blend 
+of hardware and software knowledge and skills.
+Hardware deals with the electronics and structure
+of computer based products and software deals with
+how they are programmed to perform useful tasks. 
+In many cases people working in these areas have
+graduated from courses where either software or 
+hardware was the major component.
+Computer Engineering provides a 
+more suitable base by providing the graduate 
+with theory and skills in hardware and software, 
+as well as giving the student an overview of the 
+architecture of computer based systems. 
+Courses in this area build the students' 
+competencies from basic electronics to microprocessors; 
+embedding computers into products and developing 
+software drivers to make them work.

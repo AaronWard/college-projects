@@ -1,0 +1,28 @@
+{
+  "name": "Assignment2Report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pdfmac": 
+    "pandoc --latex-engine=xelatex -H _config/preamble.tex -V fontsize=10pt -V documentclass:book -V papersize:a4paper -V classoption:openright --number-sections --bibliography=03_references/references.bib 00_front-material/*.md _config/toc.md 01_sections/*/*.md 02_appendices/*.md 03_references/references.md -o output.pdf",
+    "cleanmac":
+    "rm output.pdf",
+    "pdfwin":
+    "javac Build.java && java Build",
+    "cleanwin":
+    "DEL *.class output.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "Aaron",
+  "license": "ISC",
+  "bugs": {
+    "url": " "
+  },
+  "homepage": "#readme"
+}
+
+
