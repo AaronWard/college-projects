@@ -1,0 +1,17 @@
+{
+  "engineering1": {
+    "name": "Bachelor of Engineering in Computer Engineering",
+    "code": "BN012",
+    "description": "If you enjoy building things, like to figure out how they work and want to be able to use your background in Computer Engineering to build and understand mobile systems, then this is where you can learn how things work and how toapply your imagination to improve and invent the things that we all use in our daily lives."
+  },
+  "engineering2":{
+    "name": "Bachelor of Engineering (Honours) in Mechatronic Engineering",
+    "code": "BN121",
+    "description": "Mechatronics is the synergistic integration of precision mechanical engineering, control theory, computer science and electronics in such areas as product design and process control and automation. The integration of electronics and computing technologies with mechanical engineering now forms a crucial part in the design, manufacture and maintenance of a wide range of modern engineering products and processes. This requires the adoption by engineers and technicians of an inter-disciplinary and integrated approach to engineering that is being referred to as mechatronics."
+  },
+  "engineering3": {
+    "name": "Master of Engineering in Internet of Things Technologies",
+    "code": "BN535",
+    "description" : "The Internet of Things (IoT) is about the new connected world, that is fast expanding, based on synergistic integration of Computer Science, Sensor Technology, and Engineering Science and Technology. It concerns the new generation of systems of networked devices that are becoming capable of sensing, transmitting and acting on data, e.g,: wearables, autonomous vehicles, drones, robots, smart homes, smart cities, smart industries, etc"
+  }
+}

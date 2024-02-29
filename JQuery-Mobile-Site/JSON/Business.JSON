@@ -1,0 +1,26 @@
+{
+  "business1": {
+    "name": "Bachelor of Business in Information Technology",
+    "code": "BN010",
+    "description": "If you like games, technology and business, here’s where you’ll learn the skills needed to bridge the gap between business and IT, and between IT and business, so you become more resourceful, flexible, unlimited and independent in your career development. It also prepares you to work in challenging and progressive organisations.Design a website, problem solve, create a marketing campaign, write a computer programme, make an investment decision, produce an interactive multimedia presentation… it’s all in a typical day for a Business and IT student here in ITB."
+  },
+  "business2":{
+    "name": "Bachelor of Arts (Honours) in Digital Marketing",
+    "code": "BN119",
+    "description": "Marketing is the discipline of understanding how and why consumers buy, and then trying to influence that decision.  Digital Marketing is a combination of using traditional methods and the vast array of digital media and tools available.  Marketing online and offline allows businesses to reach their customers, tell them about their products and help them decide to purchase."
+  },
+  "business3": {
+    "name": "Bachelor of Business (Honours) in International Business",
+    "code": "BN110",
+    "description" : "Anyone who likes business but is also extrovert and adventurous, with an interest in communicating and engaging with other cultures, should jump at the opportunity to study International Business at home and abroad. It will help you feel confident and at home in any business anywhere in the world, reducing the barriers to travel and opening a world of career opportunities to you at home and overseas."
+  }
+}
+
+
+
+
+
+
+
+
+

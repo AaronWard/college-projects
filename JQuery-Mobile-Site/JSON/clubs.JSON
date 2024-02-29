@@ -1,0 +1,23 @@
+{
+  "club1": {
+    "name": "Computing Society",
+    "description": "An efficiently run society which was the first club or society set up in ITB way back in 1999. This club has 12 computers which runs LAN games on campus in the student common room."
+  },
+  "club2": {
+    "name": "Colours LGBTQI+* Society",
+    "description": "ITB's Colours Society is an open and safe place for ITB students and staff who identify as LGBTQ+* to come along, hang out and make new friends. We aim to create a safe, friendly, non-judgemental and supportive space for anyone who needs us"
+  },
+  "club3": {
+    "name": "GAA",
+    "description": "One of ITB’s largest clubs consisting of men’s senior football, fresher’s football, ladies football and men’s hurling. It is also one of ITB's most successful clubs with the Men's Senior football team winning the Trench Cup in 2013, the Men's Hurling team winning their league in 2013 and the Ladies GAA team being crowned Lagan Cup Champions in 2012"
+  },
+  "club4": {
+    "name": "Futsal",
+    "description": "Futsal is very popular among students here in ITB. The club organises internal leagues among ITB students each semester in the Sports Hall. This club is becoming more popular and there are also day long tournaments held during both Freshers and RAG week. Each year a representative team is chosen to compete in the intervarsities for ITB."
+  },
+  "club5" : {
+    "name" : "Harry Potter Society",
+    "description" : "One of ITB’s largest clubs consisting of men’s senior football, fresher’s football, ladies football and men’s hurling. It is also one of ITB's most successful clubs with the Men's Senior football team winning the Trench Cup in 2013, the Men's Hurling team winning their league in 2013 and the Ladies GAA team being crowned Lagan Cup Champions in 2012"
+  }
+
+}

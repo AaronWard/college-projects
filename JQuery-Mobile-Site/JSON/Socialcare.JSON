@@ -1,0 +1,16 @@
+{
+  "socialcare1": {
+    "name": "Bachelor of Arts in Applied Social Studies in Social Care",
+    "code": "BN011",
+    "description": "Applied Social Studies helps you create change for others by developing yourself. On this course, students learn how to help others through learning about themselves. This course helps you help others to plan for a positive future"
+  },
+  "socialcare2":{
+    "name": "Bachelor of Arts (Honours) in Applied Social Studies in Social Care",
+    "code": "BN107",
+    "description": "A 4 year course that provides the skills to develop yourself. Garda Vetting is required to do this course."},
+  "socialcare3": {
+    "name": "Bachelor of Arts (Honours) in Applied Social Studies in Social Care",
+    "code": "BN408",
+    "description" : "A 1 year add on onto BN011"
+  }
+}

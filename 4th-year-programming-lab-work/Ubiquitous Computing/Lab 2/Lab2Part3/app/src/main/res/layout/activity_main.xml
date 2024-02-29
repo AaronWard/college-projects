@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.aaron.lab2part3.MainActivity">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="356dp"
+        android:layout_height="60dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:selectAllOnFocus="false"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="348dp"
+        android:layout_below="@+id/imageView"
+        android:layout_alignEnd="@+id/button"
+        android:layout_marginTop="23dp" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/button"
+        android:layout_width="363dp"
+        android:layout_height="65dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="12dp"
+        android:elevation="0dp"
+        android:onClick="onClick"
+        android:text="Retrieve Image"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="424dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="354dp"
+        android:layout_height="297dp"
+        app:srcCompat="@android:color/background_light"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="30dp"
+        android:layout_marginTop="26dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignEnd="@+id/editText" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button"
+        android:layout_alignStart="@+id/imageView"
+        android:layout_marginStart="132dp"
+        android:text="Test"
+        android:layout_below="@+id/editText" />
+</RelativeLayout>

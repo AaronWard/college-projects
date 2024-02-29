@@ -1,0 +1,15 @@
+{
+  "cdm1": {
+    "name": "Bachelor of Arts (Honours) in Creative Digital Media",
+    "code": "BN112",
+    "description": "This dynamic and exciting course will supply all the practical, creative and technical skills you need to succeed in the digital society and economy.To see the type of wonderful work you will get to create check out creativedigitalmedia.ie"},
+  "cmd2":{
+    "name": "Bachelor of Arts (Honours) in Creative Digital Media ",
+    "code": "BN413",
+    "description": "A 1 year add one to BN021"},
+  "cmd3": {
+    "name": "Bachelor of Arts in Creative Digital Media ",
+    "code": "BN021",
+    "description" : "A 3 year course that suplies the practical, creative and technical skills you need to succeed in the digital society and economy.To see the type of wonderful work you will get to create check out creativedigitalmedia.ie"
+  }
+}

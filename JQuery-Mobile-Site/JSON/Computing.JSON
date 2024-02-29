@@ -1,0 +1,17 @@
+{
+  "computing1": {
+    "name": "Bachelor of Science (Honours) in Computing",
+    "code": "BN104",
+    "description": "Modern computing covers a wide area of related and interconnecting technologies, skills and disciplines from understanding the architecture of modern computer systems and building them, to systems analysis, computational intelligence, artificial intelligence and natural language processing"
+  },
+  "computing2":{
+    "name": "Digital Forensics",
+    "code": "BN120",
+    "description": "Aimed at anyone who likes to question accepted approaches to cyber security and thinks about how a network intruder or hacker would behave. This degree is designed to provide you with an all round perspective on information security risk and project management."
+  },
+  "computing3": {
+    "name": "Higher Certificate in Science in Computing in Information Technology",
+    "code": "BN002",
+    "description" : "A 2 year course that covers a wide range of computing technologies such as programming, web development, relational databe design and algorithmic problem sovling. Transfer and Progression: BN302 Bachelor of Science in Computing in Information Technology or BN311 Bachelor of Science in Computing in Digital Forensics & Cyber Security."
+  }
+}
